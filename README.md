@@ -24,7 +24,7 @@
 
 The TranscriboQuest 2025 course aimed at using the <a href="https://escriptorium.inria.fr/">EScriptorium platform</a> to create new data, and our group focused on Greek manuscripts.
 
-This digital corpus brings together approximately twenty pages of ancient Greek manuscripts, spanning from the 4th to the 1st century BCE. The texts, processed through automatic handwritten text recognition (HTR) via eScriptorium and then manually corrected, include dramatic works by Menander (Sicyonians), Apollodorus, and Epicharmus (Meropis), as well as lyrical compositions by Timotheus and a medical treatise, providing a representative overview of the literary and scientific diversity of the Hellenistic period. Here are the manuscripts we selected :
+This digital corpus contains twenty pages of ancient Greek manuscripts (4th-1st century BCE) processed via eScriptorium HTR and manually corrected. The collection features a Homeric fragment, dramatic fragments from Menander's Sicyonians, Apollodorus, and Epicharmus's Meropis, Timotheus's lyrical works, and a medical treatise, representing key genres of Hellenistic literature; the collection also includes the most ancient dated documentary papyrus, which preserves a marriage contract. Here are the manuscripts we selected :
 * MP3 1308.1 fr.5 ; MP3 1308.1 fr. 6
 * MP3 1308.1 fr.10
 * MP3 1308.1 fr.11
@@ -32,6 +32,7 @@ This digital corpus brings together approximately twenty pages of ancient Greek 
 * Inv. 20941, Köln, Papyrussammlung ; P. 9875 Kol. 2–6
 * P. 9875 Kol. 2–6
 * P.Eleph. 1
+* Inv. 04783, Köln, Papyrussammlung
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
