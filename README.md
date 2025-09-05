@@ -57,7 +57,7 @@ This digital corpus brings together approximately twenty pages of ancient Greek 
 
 <a id="guidelines"></a>
 ## Guidelines
-<a href="https://github.com/OdysseusPolymetis/AncientGreek_TranscriboQuest2025/blob/main/Transcriboquest2025_Greek_guidelines.md">Guidelines</a>
+<a href="https://github.com/OdysseusPolymetis/AncientGreek_TranscriboQuest2025/blob/main/Guidelines_for_Transcriboquest_2025_GitHub.md">Guidelines</a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
