@@ -66,7 +66,7 @@ This digital corpus brings together approximately twenty pages of ancient Greek 
 <!-- LICENSE -->
 ## License
 
-Distributed under the Creative Commons License. See the zenodo repository for more information. <a href="https://zenodo.org/records/17061902">Zenodo</a>
+Distributed under the Creative Commons License. See the zenodo repository for more information. <a href="https://zenodo.org/records/17062024">Zenodo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
